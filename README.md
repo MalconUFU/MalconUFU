@@ -8,7 +8,7 @@ Estou sempre aprimorando minhas habilidades, unindo criatividade e técnica para
 
 ### 🖥️ Tecnologias que uso:
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"></td>
