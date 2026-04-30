@@ -8,7 +8,7 @@ Estou sempre aprimorando minhas habilidades, unindo criatividade e técnica para
 ![Malcon GitHub stats](https://github-readme-stats.vercel.app/api?username=MalconUFU&show_icons=true&theme=radical)
 
 ### 🖥️ Tecnologias que uso: 
-<div style="display: flex;"><br/>
+<div style="display: flex; flex-direction: row;"><br/>
     <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" ">
     <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" ">
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" ">
