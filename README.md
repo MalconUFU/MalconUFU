@@ -4,8 +4,6 @@ Sou graduando em Ciência da Computação na UFU, e este é meu espaço para com
 
 Estou sempre aprimorando minhas habilidades, unindo criatividade e técnica para desenvolver soluções inovadoras e resolver desafios do mundo real.
 
-![Malcon GitHub stats](https://github-readme-stats.vercel.app/api?username=MalconUFU&show_icons=true&theme=radical)
-
 ### 🖥️ Tecnologias que uso:
 
 <table border="0" cellspacing="0" cellpadding="0">
